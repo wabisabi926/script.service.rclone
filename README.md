@@ -39,7 +39,7 @@ For any issues or feature requests, please open an issue on the [GitHub reposito
 
 If you find this addon useful and would like to support its development, please consider making a donation. Your support is greatly appreciated!
 
-[![Donate](paypal.me/ITARIOS)
+[![Donate]([paypal.me/ITARIOS](https://www.paypal.com/paypalme/ITARIOS))
 
 ---
 
