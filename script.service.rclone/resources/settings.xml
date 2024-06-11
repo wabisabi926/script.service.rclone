@@ -4,5 +4,7 @@
         <setting id="check_interval" label="Check interval (minutes)" type="number" default="15" />
         <setting id="cache_time" label="Cache time (hours)" type="number" default="24" />
         <setting id="folder_path" label="Folder path" type="folder" default="" />
+		<setting id="remote_name" label="Remote name" type="text" default="YOUR_REMOTE_HERE" />
+		<setting id="webdav_port" label="Webdav port" type="number" default="23457" />
     </category>
 </settings>
