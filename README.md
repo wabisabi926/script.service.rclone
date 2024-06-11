@@ -39,7 +39,7 @@ For any issues or feature requests, please open an issue on the [GitHub reposito
 
 If you find this addon useful and would like to support its development, please consider making a donation. Your support is greatly appreciated!
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](mailto:war_chicken@hotmail.com)
+[![Donate](paypal.me/ITARIOS)
 
 ---
 
