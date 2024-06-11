@@ -7,6 +7,7 @@ This addon integrates Rclone functionality into Kodi, allowing you to manage and
 - Synchronize files between your cloud storage and Kodi.
 - Automate library updates (still working on it).
 - Support for various cloud services via Rclone.
+- Works with Kodi 21 omega.
 
 ## Installation
 
@@ -17,6 +18,7 @@ This addon integrates Rclone functionality into Kodi, allowing you to manage and
 5. Click the **Add-on browser** icon, then select **Install from zip file**.
 6. Navigate to the downloaded zip file and select it.
 7. Wait for the installation to complete.
+8. For TV BOX with android 10 or above you need to install a modified version of kodi by just under-versioning the kodi to Android 9.
 
 ## Configuration
 
