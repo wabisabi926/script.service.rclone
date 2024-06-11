@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.service.rclone" name="Rclone Addon" version="2.7.0" provider-name="AriosTV">
+<addon id="script.service.rclone" name="Rclone Addon" version="1.0.0" provider-name="WarPirobo">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -12,7 +12,7 @@
 		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
 		<platform>android</platform>
 		<provides>
-			<addon id="script.service.rclone" version="2.6.0"/>
+			<addon id="script.service.rclone" version="1.0.0"/>
 		</provides>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Rclone Addon</summary>
