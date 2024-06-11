@@ -33,7 +33,7 @@ This addon integrates Rclone functionality into Kodi, allowing you to manage and
 
 ## Support
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/yourusername/repository/issues).
+For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/warpirobo/repository/issues).
 
 ## Donations
 
