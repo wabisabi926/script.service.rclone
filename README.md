@@ -11,7 +11,7 @@ This addon integrates Rclone functionality into Kodi, allowing you to manage and
 
 ## Installation
 
-1. Download the addon from the [releases page](https://github.com/yourusername/repository/releases).
+1. Download the addon from the [releases page]([https://github.com/yourusername/repository/releases](https://github.com/warpirobo/RCLONE-ADDON-KODI-NEXUS-Android-/releases/tag/rclone)).
 2. Replace the rclone.conf inside the zip file for your own already set up.
 3. Download and add the rclone binary from https://beta.rclone.org/v1.66.0/testbuilds/ to the root of the zip and make sure you get the ARM v7 one for your Android TV Box devise.
 4. Open Kodi and go to **Add-ons**.
