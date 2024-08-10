@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Define la ruta de la fuente de datos
-data_source_path = "dav://127.0.0.1:23457/{your remote}"
+data_source_path = "dav://127.0.0.1:23457/AriosTV"
 
 # Define el intervalo de tiempo en segundos en el que se comprobará si hay nuevo contenido
 check_interval = 600 # 10 minutos
