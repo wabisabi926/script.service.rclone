@@ -5,7 +5,7 @@ import time
 import subprocess
 
 ADDON = xbmcaddon.Addon()
-RCLONE_CMD = ADDON.getSetting('rclone_cmd')
+RCLONE_CMD = ADDON.getSetting('rclone_cmd') + ' --disable-http2'
 
 def update_library():
     subprocess.call([RCLONE_CMD, 'sync', 'remote:media', '/path/to/media'])
