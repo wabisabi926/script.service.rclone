@@ -1,46 +1,46 @@
 # Rclone Service Addon for Kodi
 
-This addon integrates Rclone functionality into Kodi, allowing you to manage and synchronize your files directly from the Kodi interface. Rclone is a command-line program to manage files on cloud storage. With this addon, you can automate tasks such as updating your Kodi library with content from various cloud services.
+此插件将Rclone功能集成到Kodi中，允许您直接从Kodi界面管理和同步文件。Rclone是一个用于管理云存储文件的命令行程序。通过此插件，您可以自动化执行各种任务，例如使用来自各种云服务的内容更新Kodi库。
 
-## Features
+## 特性
 
-- Synchronize files between your cloud storage and Kodi.
-- Automate library updates (still working on it).
-- Support for various cloud services via Rclone.
-- Works with Kodi 21 omega.
+- 在云存储和Kodi之间同步文件。
+- 自动化库更新（仍在进行中）。
+- 通过Rclone支持各种云服务。
+- 适用于Kodi 21 omega。
 
-## Installation
+## Installation介绍
 
-1. Download the addon from the [releases page]([https://github.com/yourusername/repository/releases](https://github.com/warpirobo/RCLONE-ADDON-KODI-NEXUS-Android-/releases/tag/rclone)).
-2. Replace the rclone.conf inside the zip file for your own already set up.
-3. Download and add the rclone binary from https://beta.rclone.org/v1.66.0/testbuilds/ to the root of the zip and make sure you get the ARM v7 one for your Android TV Box devise.
-4. Open Kodi and go to **Add-ons**.
-5. Click the **Add-on browser** icon, then select **Install from zip file**.
-6. Navigate to the downloaded zip file and select it.
-7. Wait for the installation to complete.
-8. For TV BOX with android 10 or above you need to install a modified version of kodi by just under-versioning the kodi to Android 9.
+1.从[releases page]（[https://github.com/yourusername/repository/releases]（https://github.com/warpirobo/RCLONE-ADDON-KODI-NEXUS-Android-/releases/tag/rclone））.下载插件
+2.替换zip文件中的rclone.conf，以适应您设置的版本。
+3.从 https://beta.rclone.org/ 下载并添加rclone二进制文件到zip的根目录，并确保你得到ARM v7版本的Android电视盒设备。
+4.打开Kodi，然后转到**插件**。
+5.单击“附加浏览器”图标，然后选择“从zip文件安装”。
+6.导航到下载的zip文件并选择它。
+7.等待安装完成。
+8.对于android 10或以上的电视盒，你需要安装一个修改版的kodi，只需将kodi版本向下调整到android 9。
 
-## Configuration
+## 布局
 
-1. After installation, go to **Add-ons** > **My add-ons** > **Services**.
-2. Select **Rclone Service** and then **Configure**.
-3. Enter your Rclone configuration details.
+1.安装后，转到**附加组件**>**我的附加组件**>**服务**。
+2.选择**Rclone服务**，然后选择**配置**。
+3.输入Rclone配置详细信息。
 
-## Usage
+## 用法
 
-- To start the Rclone service, go to **Add-ons** > **My add-ons** > **Services** and select **Rclone Service**.
-- Use the provided scripts to automate tasks such as updating your library.
+- 要启动Rclone服务，请转到**附加组件**>**我的附加组件**>**服务**，然后选择**Rclone服务**。
+- 使用提供的脚本来自动执行任务，例如更新库。
 
-## Support
+## 支持
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/warpirobo/repository/issues).
+对于任何问题或功能请求，请在网站上打开一个问题 [GitHub repository](https://github.com/warpirobo/repository/issues).
 
-## Donations
+## 捐赠
 
-If you find this addon useful and would like to support its development, please consider making a donation. Your support is greatly appreciated!
+如果您觉得这个插件很有用并且愿意支持它的开发，请考虑捐款。您的支持将非常受用！
 
 https://www.paypal.com/paypalme/ITARIOS
 
 ---
 
-*Note: This addon is not affiliated with or endorsed by the official Kodi team.*
+*注意：此插件与官方Kodi团队无关，也未得到其认可。*
