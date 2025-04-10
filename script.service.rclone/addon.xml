@@ -7,7 +7,10 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Run rclone when Kodi starts</summary>
+		<summary lang="zh_CN">当Kodi启动时rclone开始工作</summary>
 		<description lang="en_GB">This script creates a webdav server from your remote using rclone, it also updates the Kodi library automatically when new files are added to the remote. Add your rclone.conf file to the profile directory</description>
+		<description lang="zh_CN">此脚本使用rclone从远程创建webdav服务器，当向远程添加新文件时，它还会自动更新Kodi库。将rclone.conf文件添加到配置文件目录</description>
+		<platform>android</platform>
 		<platform>android</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
 		<platform>android</platform>
@@ -16,7 +19,9 @@
 		</provides>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Rclone Addon</summary>
+			<summary lang="zh_CN">Rclone 插件</summary>
 			<description lang="en_GB">Sync and serve remote files using rclone.</description>
+			<description lang="zh_CN">使用rclone同步和提供远程文件。</description>
 			<platform>all</platform>
 		</extension>
 	</extension>
