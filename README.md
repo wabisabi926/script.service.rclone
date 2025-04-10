@@ -11,7 +11,7 @@
 
 ## Installation介绍
 
-1.从[releases page]（[https://github.com/yourusername/repository/releases]（https://github.com/warpirobo/RCLONE-ADDON-KODI-NEXUS-Android-/releases/tag/rclone））.下载插件。
+1.下载插件。
 
 2.替换zip文件中的rclone.conf，以适应您设置的版本。
 
