@@ -11,19 +11,29 @@
 
 ## Installation介绍
 
-1.从[releases page]（[https://github.com/yourusername/repository/releases]（https://github.com/warpirobo/RCLONE-ADDON-KODI-NEXUS-Android-/releases/tag/rclone））.下载插件
+1.从[releases page]（[https://github.com/yourusername/repository/releases]（https://github.com/warpirobo/RCLONE-ADDON-KODI-NEXUS-Android-/releases/tag/rclone））.下载插件。
+
 2.替换zip文件中的rclone.conf，以适应您设置的版本。
+
 3.从 https://beta.rclone.org/ 下载并添加rclone二进制文件到zip的根目录，并确保你得到ARM v7版本的Android电视盒设备。
+
 4.打开Kodi，然后转到**插件**。
+
 5.单击“附加浏览器”图标，然后选择“从zip文件安装”。
+
 6.导航到下载的zip文件并选择它。
+
 7.等待安装完成。
+
 8.对于android 10或以上的电视盒，你需要安装一个修改版的kodi，只需将kodi版本向下调整到android 9。
+
 
 ## 布局
 
 1.安装后，转到**附加组件**>**我的附加组件**>**服务**。
+
 2.选择**Rclone服务**，然后选择**配置**。
+
 3.输入Rclone配置详细信息。
 
 ## 用法
