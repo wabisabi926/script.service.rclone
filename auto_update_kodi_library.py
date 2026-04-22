@@ -14,4 +14,4 @@ def update_library():
 if __name__ == '__main__':
     while not xbmc.abortRequested:
         update_library()
-        time.sleep(3600)  # Check every hour
+        time.sleep(3600)
