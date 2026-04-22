@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.service.rclone" name="Rclone Addon" version="3.1.0" provider-name="AriosTV，wabisabi926">
+<addon id="script.service.rclone" name="Rclone Addon (CoreELEC)" version="3.1.0-coreelec" provider-name="AriosTV，wabisabi926">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
 	<extension point="xbmc.service" library="main.py">
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Run rclone when Kodi starts</summary>
-		<summary lang="zh_CN">Kodi 启动时运行 rclone</summary>
-		<description lang="en_GB">This script creates a webdav server from your remote using rclone, it also updates the Kodi library automatically when new files are added to the remote. Add your rclone.conf file to the profile directory</description>
-		<description lang="zh_CN">此脚本使用 rclone 从您的远程存储创建 webdav 服务器，当远程存储中添加新文件时，它还会自动更新 Kodi 库。请将您的 rclone.conf 文件添加到配置文件目录</description>
-		<platform>android</platform>
+		<summary lang="en_GB">Run rclone when Kodi starts (CoreELEC)</summary>
+		<summary lang="zh_CN">Kodi 启动时运行 rclone (CoreELEC)</summary>
+		<description lang="en_GB">This script creates a webdav server from your remote using rclone, it also updates the Kodi library automatically when new files are added to the remote. Add your rclone.conf file to the profile directory. This version is optimized for CoreELEC on ARM64 architecture.</description>
+		<description lang="zh_CN">此脚本使用 rclone 从您的远程存储创建 webdav 服务器，当远程存储中添加新文件时，它还会自动更新 Kodi 库。请将您的 rclone.conf 文件添加到配置文件目录。此版本针对 ARM64 架构的 CoreELEC 进行了优化。</description>
+		<platform>linux</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
 		<provides>
-			<addon id="script.service.rclone" version="3.1.0"/>
+			<addon id="script.service.rclone" version="3.1.0-coreelec"/>
 		</provides>
 	</extension>
 </addon>

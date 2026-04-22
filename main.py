@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 # Obtener la ruta del addon y la ubicación para copiar el archivo
 addon = xbmcaddon.Addon()
 addon_path = addon.getAddonInfo('path')
-src = os.path.join(addon_path, 'bin', 'rclone-android-21-armv7a')
-loc = xbmcvfs.translatePath("special://xbmcbin/../../../cache/lib/rclone-android-21-armv7a")
+src = os.path.join(addon_path, 'bin', 'rclone-coreelec-arm64')
+loc = xbmcvfs.translatePath("special://xbmcbin/../../../cache/lib/rclone-coreelec-arm64")
 
 # Copiar y hacer el archivo ejecutable si no existe
 if not xbmcvfs.exists(loc):
