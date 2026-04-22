@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <category label="32000">
+        <setting id="check_interval" label="32001" type="number" default="15" />
+        <setting id="cache_time" label="32002" type="number" default="24" />
+        <setting id="folder_to_watch" label="32003" type="folder" default="" />
+		<setting id="remote_name" label="32004" type="text" default="YOUR_REMOTE_HERE" />
+		<setting id="webdav_port" label="32005" type="number" default="23457" />
+    </category>
+</settings>

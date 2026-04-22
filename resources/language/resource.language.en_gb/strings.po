@@ -1,0 +1,60 @@
+# Kodi Language File
+# Addon Name: Rclone Addon
+# Addon id: script.service.rclone
+# Addon Provider: AriosTV
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (https://kodi.weblate.cloud/languages/en_gb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings category
+msgctxt "#32000"
+msgid "Sync options"
+msgstr ""
+
+# Settings items
+msgctxt "#32001"
+msgid "Check interval (minutes)"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Cache time (hours)"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Folder path"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Remote name"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Webdav port"
+msgstr ""
+
+# Addon metadata
+msgctxt "#32006"
+msgid "Run rclone when Kodi starts"
+msgstr ""
+
+msgctxt "#32007"
+msgid "This script creates a webdav server from your remote using rclone, it also updates the Kodi library automatically when new files are added to the remote. Add your rclone.conf file to the profile directory"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Rclone Addon"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Sync and serve remote files using rclone. Updated for Kodi 21+ compatibility."
+msgstr ""
